@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "962500281693",
+    "project_id": "doca-388a3",
+    "storage_bucket": "doca-388a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962500281693:android:c7c309472549dcdaf7d4b4",
+        "android_client_info": {
+          "package_name": "com.example.doca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962500281693-1tokv7flj5toncg9dhoke5vor0aij609.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDis2FJoz7wuRKsGIBLIN5WHb-oDxiI21s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962500281693-1tokv7flj5toncg9dhoke5vor0aij609.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
